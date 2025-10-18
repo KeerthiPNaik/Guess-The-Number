@@ -24,3 +24,7 @@ The computer selects a random number between 1 and 100, and the user must guess 
    - "Taget is lesser than number" if your number is less
 4. Keep guessing until you find the correct number!
 5. The game will tell you how many attempts you used.
+
+## Live Demo
+
+[Play Now](https://KeerthiPNaik.github.io/Guess-The-Number/)
